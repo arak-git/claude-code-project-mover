@@ -37,3 +37,7 @@ chmod +x claude-project-mover.sh
 
 - macOS or Linux with Bash
 - Claude Code installed (`~/.claude/projects/` must exist)
+
+## Related
+
+- [claude-code-project-mover-py](https://github.com/YOUR_USERNAME/claude-code-project-mover-py) — Python reimplementation covering all 3 storage layers (Windows/macOS/Linux, includes `~/.claude.json` and session metadata patching)
